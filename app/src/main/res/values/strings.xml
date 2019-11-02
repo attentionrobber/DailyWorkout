@@ -3,4 +3,10 @@
     <string name="title_home">Home</string>
     <string name="title_report">Report</string>
     <string name="title_tools">Tools</string>
+
+    <!-- fragment_home.xml -->
+    <string name="btn_start">START WORKOUT</string>
+    <string name="btn_howTo">HOW TO WORKOUT</string>
+    <string name="btn_newRoutine">NEW ROUTINE\nfor intermediate and above</string>
+    <string name="btn_programs">PROGRAMS\nfor beginner</string>
 </resources>
